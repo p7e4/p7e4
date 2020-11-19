@@ -1,4 +1,7 @@
-### Hi there 👋
+### Just p7e4 😄
+
+- 常年滑水小能手
+- 平时啥都不详干，只想躺着
 
 <!--
 **p7e4/p7e4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
