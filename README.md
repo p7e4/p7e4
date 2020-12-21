@@ -2,6 +2,7 @@
 
 - 常年滑水小能手
 - 平时啥都不想干，只想躺着
+- 偶尔喜欢开发一些自娱自乐的东西
 
 <!--
 **p7e4/p7e4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
