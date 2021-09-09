@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![p7e4's GitHub stats](https://github-readme-stats.vercel.app/api?username=p7e4&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 More about me: https://p7e4.js.org/about
